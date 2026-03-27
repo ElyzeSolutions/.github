@@ -3,16 +3,13 @@
 </p>
 
 <p align="center">
-  <strong>AI integration, infrastructure, DevOps, and custom software systems.</strong><br />
-  Built for production, not for pitch decks.
+  <strong>Elyze Solutions designs and delivers AI systems, infrastructure, and custom software for teams that need reliable execution.</strong>
 </p>
 
 <p align="center">
   <a href="https://elyzesolutions.ch/">elyzesolutions.ch</a>
   ·
   <a href="mailto:contact@elyzesolutions.ch">contact@elyzesolutions.ch</a>
-  ·
-  <a href="https://github.com/P4R4DiSi4C">founder profile</a>
 </p>
 
 <p align="center">
@@ -24,16 +21,16 @@
 
 ## Capabilities
 
-- AI integrations, internal copilots, agent workflows, and retrieval systems
+- AI integration, copilots, retrieval systems, and workflow automation
 - Cloud foundations, landing zones, networking, and infrastructure as code
-- CI/CD, observability, runtime operations, and production delivery
-- Custom internal tools, APIs, automations, and business software
+- CI/CD, observability, runtime operations, and delivery systems
+- Internal tools, APIs, and business software built for day-to-day use
 
 ## How we work
 
-- Production-first: clear scope, clean architecture, and delivery that holds up in real environments
-- Useful automation: no demo theatrics, no vague AI claims, no gratuitous complexity
-- Operable systems: maintainable runtimes, explicit behavior, and practical observability
+- Clear scope, clean architecture, and practical rollout
+- Production-grade delivery with explicit behavior and maintainable systems
+- Useful automation over noise, theatre, and vague claims
 
 ## Selected public work
 
@@ -56,3 +53,4 @@ Some client systems and internal delivery work are private and not listed here.
 
 - Website: [elyzesolutions.ch](https://elyzesolutions.ch/)
 - Email: [contact@elyzesolutions.ch](mailto:contact@elyzesolutions.ch)
+- Founder: [P4R4DiSi4C](https://github.com/P4R4DiSi4C)

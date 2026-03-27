@@ -39,15 +39,11 @@
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <strong><a href="https://github.com/ElyzeSolutions/website">website</a></strong><br />
-      Public brand surface for Elyze Solutions.
-    </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <strong><a href="https://github.com/ElyzeSolutions/ElyzeLabs">ElyzeLabs</a></strong><br />
       Local-first AI control plane and operator workflows.
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <strong><a href="https://github.com/ElyzeSolutions/PolyX-CLI">PolyX-CLI</a></strong><br />
       Terminal-first X intelligence for search, watch, sentiment, trends, and reporting.
     </td>

@@ -1,0 +1,74 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Elyze Solutions banner</title>
+  <desc id="desc">AI integration, infrastructure, DevOps, and custom software systems built for production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="40" x2="1180" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1014"/>
+      <stop offset="0.55" stop-color="#171B22"/>
+      <stop offset="1" stop-color="#0B0D11"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="832" y1="78" x2="1140" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A202B"/>
+      <stop offset="1" stop-color="#10141C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="188" y1="104" x2="358" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D38E72"/>
+      <stop offset="1" stop-color="#8D5A49"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1060 98) rotate(129.56) scale(241.472 182.717)">
+      <stop stop-color="#D38E72" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#D38E72" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(314 312) rotate(90) scale(138 324)">
+      <stop stop-color="#61708D" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#61708D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#FFFFFF" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="856" y="68" width="340" height="284" rx="24" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="1060" cy="98" r="178" fill="url(#glowA)"/>
+  <circle cx="314" cy="312" r="168" fill="url(#glowB)"/>
+
+  <g opacity="0.88">
+    <rect x="84" y="86" width="120" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06"/>
+    <text x="144" y="105" text-anchor="middle" fill="#D8DEE9" font-size="12" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" letter-spacing="1.6">ELYZE SOLUTIONS</text>
+  </g>
+
+  <text x="84" y="174" fill="#F7F4F1" font-size="66" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">AI systems</text>
+  <text x="84" y="242" fill="#F7F4F1" font-size="66" font-weight="700" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">for production</text>
+  <text x="84" y="286" fill="#A7AFBC" font-size="22" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Integration, infrastructure, DevOps, and custom software delivery.</text>
+
+  <g>
+    <rect x="84" y="320" width="118" height="34" rx="17" fill="#D38E72" fill-opacity="0.16" stroke="#D38E72" stroke-opacity="0.48"/>
+    <text x="143" y="342" text-anchor="middle" fill="#F3C1AD" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">AI integration</text>
+    <rect x="216" y="320" width="106" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="269" y="342" text-anchor="middle" fill="#D8DEE9" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Cloud infra</text>
+    <rect x="336" y="320" width="88" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="380" y="342" text-anchor="middle" fill="#D8DEE9" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">DevOps</text>
+    <rect x="438" y="320" width="144" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="510" y="342" text-anchor="middle" fill="#D8DEE9" font-size="14" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">Custom software</text>
+  </g>
+
+  <g>
+    <path d="M914 120L978 88V118L1040 154V236L978 272V302L914 270V120Z" fill="url(#accent)" fill-opacity="0.2" stroke="#D38E72" stroke-width="2"/>
+    <path d="M950 139H1014" stroke="#F6E0D6" stroke-width="8" stroke-linecap="round"/>
+    <path d="M950 175H1086" stroke="#F6E0D6" stroke-width="8" stroke-linecap="round" stroke-opacity="0.85"/>
+    <path d="M950 211H1056" stroke="#F6E0D6" stroke-width="8" stroke-linecap="round" stroke-opacity="0.75"/>
+    <path d="M950 247H1110" stroke="#F6E0D6" stroke-width="8" stroke-linecap="round" stroke-opacity="0.6"/>
+    <circle cx="1108" cy="247" r="10" fill="#D38E72"/>
+    <circle cx="1086" cy="175" r="10" fill="#D38E72" fill-opacity="0.72"/>
+    <circle cx="1056" cy="211" r="10" fill="#D38E72" fill-opacity="0.72"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="1028" y="112" width="128" height="40" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="1092" y="136" text-anchor="middle" fill="#F7F4F1" font-size="13" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">production first</text>
+    <rect x="976" y="284" width="180" height="40" rx="16" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="1066" y="308" text-anchor="middle" fill="#D8DEE9" font-size="13" font-family="system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">clear systems. usable delivery.</text>
+  </g>
+</svg>

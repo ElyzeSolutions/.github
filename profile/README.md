@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElyzeSolutions/.github/main/profile/assets/elyze-logo.png" alt="Elyze Solutions" width="420" />
+  <img src="https://raw.githubusercontent.com/ElyzeSolutions/.github/main/profile/assets/elyze-banner.svg" alt="Elyze Solutions" width="100%" />
 </p>
 
 <p align="center">
-  AI integration, infrastructure, DevOps, and custom software systems.
+  <strong>AI integration, infrastructure, DevOps, and custom software systems.</strong><br />
+  Built for production, not for pitch decks.
 </p>
 
 <p align="center">
@@ -14,7 +15,14 @@
   <a href="https://github.com/P4R4DiSi4C">founder profile</a>
 </p>
 
-## What we build
+<p align="center">
+  <code>AI integration</code>
+  <code>Infrastructure</code>
+  <code>DevOps</code>
+  <code>Custom software</code>
+</p>
+
+## Capabilities
 
 - AI integrations, internal copilots, agent workflows, and retrieval systems
 - Cloud foundations, landing zones, networking, and infrastructure as code
@@ -29,11 +37,22 @@
 
 ## Selected public work
 
-| Project | Focus | Link |
-| --- | --- | --- |
-| `website` | Elyze Solutions public website | [Repository](https://github.com/ElyzeSolutions/website) |
-| `ElyzeLabs` | Local-first AI control plane and operator workflows | [Repository](https://github.com/ElyzeSolutions/ElyzeLabs) |
-| `PolyX-CLI` | X intelligence tooling for search, watch, sentiment, and reporting | [Repository](https://github.com/ElyzeSolutions/PolyX-CLI) |
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong><a href="https://github.com/ElyzeSolutions/website">website</a></strong><br />
+      Public brand surface for Elyze Solutions.
+    </td>
+    <td valign="top" width="33%">
+      <strong><a href="https://github.com/ElyzeSolutions/ElyzeLabs">ElyzeLabs</a></strong><br />
+      Local-first AI control plane and operator workflows.
+    </td>
+    <td valign="top" width="33%">
+      <strong><a href="https://github.com/ElyzeSolutions/PolyX-CLI">PolyX-CLI</a></strong><br />
+      Terminal-first X intelligence for search, watch, sentiment, trends, and reporting.
+    </td>
+  </tr>
+</table>
 
 Some client systems and internal delivery work are private and not listed here.
 
